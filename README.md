@@ -4,21 +4,25 @@ Machine Learning Project using Python & Google Colab
 Student Performance Prediction is a Machine Learning project that predicts whether a student is likely to pass or fail based on academic, personal, and social attributes. The project was developed in Google Colab using Python and Scikit-learn and demonstrates the complete machine learning workflow from data preprocessing to model evaluation.
 
 🚀 Features
+
 📊 Data Preprocessing
 Data Cleaning
 Handling Missing Values
 Encoding Categorical Data
 Feature Selection
+
 📈 Exploratory Data Analysis
 Dataset Overview
 Correlation Analysis
 Feature Visualization
 Distribution Plots
+
 🤖 Machine Learning
 Logistic Regression Model
 Train-Test Split
 Model Training
 Prediction
+
 📊 Model Evaluation
 Accuracy Score
 Precision
@@ -33,6 +37,7 @@ NumPy
 Matplotlib
 Seaborn
 Scikit-learn
+
 📂 Dataset
 
 The project uses the Student Performance Dataset containing academic, demographic, and social factors that influence student performance.
