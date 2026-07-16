@@ -62,11 +62,14 @@ The project uses the Student Performance Dataset containing academic, demographi
 Successfully trained a Machine Learning model to predict student performance.
 Evaluated the model using standard classification metrics.
 Achieved reliable prediction accuracy for the given dataset.
+
+
 🔮 Future Improvements
 Improve model accuracy
 Deploy as a Flask Web Application
 Add more visualization dashboards
 Compare multiple machine learning models
-👩‍💻 Author
 
+
+👩‍💻 Author
 Akshaya S
